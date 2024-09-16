@@ -20,7 +20,7 @@ Sou aluno de cibersegurança com objetivo de alcançar experiências e práticas
 
 [Perfil TryHackMe](https://tryhackme.com/p/andreprs666).
 
-[Meu Linkedin:](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
+[Meu Linkedin](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
 
 There should be whitespace between paragraphs.
 
