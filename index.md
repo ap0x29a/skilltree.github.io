@@ -14,7 +14,6 @@ Sou aluno de **cibersegurança** com objetivo de alcançar experiências e prát
 `Ferramentas de chamado (Movidesk, Zendesk, Milvus)`  
 `ISO 27001`  
 `Blue e Red Team Sec`
-
 `IAM`
 
 [Perfil TryHackMe](https://tryhackme.com/p/andreprs666).
