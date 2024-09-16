@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](https://tryhackme.com/p/andreprs666)).
+[Link to another page](https://tryhackme.com/p/andreprs666).
 
 There should be whitespace between paragraphs.
 
