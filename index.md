@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-Sou aluno de cibersegurança com objetivo de alcançar experiências e práticas em:
+Sou aluno de **cibersegurança** com objetivo de alcançar experiências e práticas em:
 
 `Windows Server`  
 `Ubuntu Server`  
@@ -21,6 +19,20 @@ Sou aluno de cibersegurança com objetivo de alcançar experiências e práticas
 [Perfil TryHackMe](https://tryhackme.com/p/andreprs666).
 
 [Meu Linkedin](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
+
+Certificados de cursos:
+
+Fundamentos de Informática – IBSEC
+Conhecimentos em redes de computadores
+Introdução ao Hacking e Pentesting - Solyd
+Python Básico - Solyd
+Fundamentos e Proteção de Dados - Acadi-TI
+Microsoft Azure – Partner Coaching Program
+Veeam Sales Professional - Veeam Backup Partner
+Network Defense Essentials – Acadi-TI
+Ethical Hacking Essentials – Acadi-TI
+Digital Forensics Essentials – Acadi-TI
+Inteligência Artificial e Computacional - Nano Course FIAP
 
 There should be whitespace between paragraphs.
 
