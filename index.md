@@ -6,17 +6,17 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 Sou aluno de cibersegurança com objetivo de alcançar experiências e práticas em:
 
-**Windows Server**  
-**Ubuntu Server**  
-**Grafana**  
-**SIEM**  
-**NG Firewall**  
-**Redes**  
-**Antivírus**  
-**Ferramentas de chamado (Movidesk, Zendesk, Milvus)**  
-**ISO 27001**  
-**Blue e Red Team Sec**
-**IAM**
+`Windows Server`  
+`Ubuntu Server`  
+`Grafana`  
+`SIEM`  
+`NG Firewall`  
+`Redes`  
+`Antivírus`  
+`Ferramentas de chamado (Movidesk, Zendesk, Milvus)`  
+`ISO 27001`  
+`Blue e Red Team Sec`
+`IAM`
 
 [Perfil TryHackMe](https://tryhackme.com/p/andreprs666).
 
