@@ -6,8 +6,8 @@ Sou aluno de **cibersegurança** com objetivo de alcançar experiências e prát
 
 `Windows Server`  
 `Ubuntu Server`  
-`Grafana`  
-`SIEM`  
+`Zabbix & Grafana`  
+`SIEM`
 `NG Firewall`  
 `Redes`  
 `Antivírus`  
@@ -38,10 +38,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## 🛡️ Projetos Principais
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🔍 [Análise de Vulnerabilidades em Aplicações Web](#)
+**Descrição:** Projeto focado em identificar e mitigar vulnerabilidades em aplicações web usando ferramentas como **OWASP ZAP** e **Burp Suite**.
 
+### 🔒 [Configuração de IDS/IPS com Snort](#)
+**Descrição:** Implementação de um Sistema de Detecção e Prevenção de Intrusões utilizando **Snort**, configurando regras personalizadas para monitorar redes.
+
+### 🛠️ [Automação de Backup Seguro com Scripts Bash](#)
+**Descrição:** Automação de processos de backup em servidores Linux usando **Bash scripts**, assegurando a criptografia dos dados.
+
+---
 ## Header 2
 
 > This is a blockquote following a header.
