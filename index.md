@@ -28,7 +28,7 @@ layout: default
 
 ## 👾 Projetos Em Andamento
 
-### 👨‍💻 [Laboratório Virtual de SIEM](#)  `Em andamento`
+### 👨‍💻 [Laboratório Virtual de SIEM](https://github.com/d0rks0ul/socproject)  _Em andamento_
 **Descrição**: Projeto focado em coletar logs de incidente de segurança devido a um ataque **ransomware**.
 
 ### 🐍 [Pentest em Web Apps](#)
@@ -39,7 +39,7 @@ layout: default
 
 ## 📖 Livros Lidos:
 
-* Opsec: Inteligência Cibernética Na Prática
+* Opsec: Inteligência Cibernética Na Prática 
 * Introdução ao Pentest
 * Python para Pentest
 * Curso intensivo de Python
